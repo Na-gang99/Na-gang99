@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-ffb13b.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
                     
