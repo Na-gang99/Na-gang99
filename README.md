@@ -19,3 +19,5 @@ Here are some ideas to get you started:
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3"/>
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-ffb13b.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaman&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
