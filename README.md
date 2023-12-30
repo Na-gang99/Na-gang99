@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 📫 : naagy0814@gmail.com
+- ☁️ : https://na-gang99.github.io/
+
 ## My tech stack💫
 <p>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
