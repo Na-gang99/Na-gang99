@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 📫 : naagy0814@gmail.com
-- ☁️ : https://na-gang99.github.io/
+- ☁️ : 
 
 ## My tech stack💫
 <p>
